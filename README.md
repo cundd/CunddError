@@ -1,0 +1,4 @@
+CunddError
+==========
+
+JavaScript error handler
